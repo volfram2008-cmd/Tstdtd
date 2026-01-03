@@ -1,5 +1,5 @@
 const { Telegraf } = require("telegraf");
-const bot = new Telegraf(process.env.TELEGRAM_TOKEN=);
+const bot = new Telegraf(process.env.TELEGRAM_TOKEN);
 
 let nswfYaoiImg = require("./commands/nswf/yaoi-img");
 let nswfTrapImg = require("./commands/nswf/trap-img");
