@@ -5,7 +5,7 @@
 ## Guide
 
 ```shell
-git clone https://github.com/zachey01/nswf-tg-bot.git
+git clone https://github.com/volfram2008-cmd/Tstdtd.git
 ```
 
 ```shell
@@ -14,3 +14,4 @@ npm i
 
 Get Telegram bot token and put it in the .env file, for example: `TELEGTAM_TOKEN= 111111111:ABCDEFI`.
 Then run the command `node index`.
+
